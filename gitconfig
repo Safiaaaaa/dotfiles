@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = safia.ahmedou@gmail.com
+	name = Safia Ahmedou
